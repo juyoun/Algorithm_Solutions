@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/2606
+
 import java.util.Arrays;
 import java.util.Scanner;
 
