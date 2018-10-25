@@ -1,3 +1,5 @@
+https://www.acmicpc.net/problem/1110
+
 #include <stdio.h>
 int main(){
     int N;
