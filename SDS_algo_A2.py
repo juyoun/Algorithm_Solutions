@@ -1,3 +1,5 @@
+# question from: https://koitp.org/problem/SDS_TEST_SURVIVOR/read/
+
 def check_city(m, i, j, size):
     is_city = 0
     check = []
