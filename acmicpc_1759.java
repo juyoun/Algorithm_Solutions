@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1759
+
 import java.util.*;
 public class Main {
 	static char[] data;
