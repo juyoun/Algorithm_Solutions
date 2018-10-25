@@ -1,3 +1,5 @@
+# question from: https://koitp.org/problem/SDS_TEST_PAGE/read/
+
 def cal_num(start, total, compare, j):
     page = []
     num = start
