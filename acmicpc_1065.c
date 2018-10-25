@@ -1,3 +1,5 @@
+//  question from: https://www.acmicpc.net/problem/1065
+
 #include <stdio.h>
 
 int main(void){
